@@ -57,3 +57,4 @@ This project was created for **study purposes**:
 
 ## 📄 License
 This project is for educational purposes only.
+
